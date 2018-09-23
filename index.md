@@ -1,4 +1,4 @@
-Capella IT utvikler [Mattea.app](https://mattea.app) som skal gjøre matematikk morsomt og lett å mestre for alle!
+Capella IT utvikler [Mattea.app](https://mattea.app) som gjør matematikk morsomt og lett å mestre for alle!
 
 I tillegg leverer Capella IT konsulenttjenester innen systemutvikling og programmering og undervisning av det samme.
 
