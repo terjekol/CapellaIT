@@ -1,6 +1,6 @@
 Capella IT utvikler [Mattea.app](https://mattea.app) som gjør matematikk morsomt og lett å mestre for alle!
 
-Vi har også utviklet et konsept for interaktiv algebra. Et proof-of-concept kan sees i (Android-appen Mathemateria)[https://play.google.com/store/apps/details?id=com.capellait.mathemateria]. Dette konseptet skal flyttes til web og tilbys via Mattea.app.
+Vi har også utviklet et konsept for interaktiv algebra. Et proof-of-concept kan sees i [Android-appen Mathemateria](https://play.google.com/store/apps/details?id=com.capellait.mathemateria). Dette konseptet skal flyttes til web og tilbys via Mattea.app.
 
 I tillegg leverer Capella IT konsulenttjenester innen systemutvikling og programmering og undervisning av det samme.
 
