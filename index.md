@@ -9,4 +9,4 @@ Solstadveien 11
 E-post: terje(a)kolderup.net
 Telefon: +47 95 22 80 64
 
-For ytterligere formalia, se www.1881.no. 
+For ytterligere formalia, se (www.1881.no)[https://www.1881.no/data-programvare-og-utvikling/data-programvare-og-utvikling-vestfold/data-programvare-og-utvikling-stavern/capella-it_101401833S1/]
